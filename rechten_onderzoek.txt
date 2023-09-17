@@ -1,0 +1,21 @@
+VIEW DEFINITION 
+
+hierdoor kan je tot de metadata toegang krijgen
+
+je hebt dit nodig als je gebruikers toegang wilt geven tot bepaalde data
+
+
+ALTER 
+
+dit geeft de gebruiker de optie om bestaande data in de database te veranderen.
+
+
+BACKUP DATABASE
+
+dit geeft de gebruiker recht om backups te maken van de database.
+
+
+TRIGGER 
+
+wordt gebruikt om automatische acties uit te voeren in reactie op gegevenswijzigingen in een database.
+
