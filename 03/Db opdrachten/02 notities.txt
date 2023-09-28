@@ -1,0 +1,14 @@
+Bol.com
+
+Papendorpseweg (straat) 100 (straatnummer)
+3528 BJ (postcode)
+UTRECHT (plaats)
+Nederland (land)
+
+straat (VARCHAR)
+straatnummer (INT)
+postcode (VARCHAR)
+plaats (VARCHAR)
+land (VARCHAR)
+
+wij vinken primary key en meer aan, omdat dat uniek is.
