@@ -1,0 +1,7 @@
+
+
+Multistatement is een instructie die meerdere SQL-instructies in een query uitvoeren.
+
+Als je het niet goed gebruikt, kan er een beveiligingsprobleem komen.
+
+Hackers kunnen bijvoorbeeld schadelijke SQL-code injecteren en kan hen toegang geven tot de database en bestanden wissen of aanpassen.
